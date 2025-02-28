@@ -1,0 +1,35 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .list-group {
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+  }
+  
+  .list-group-item {
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: rgb(243, 202, 148);
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: rgb(243, 202, 148);
+  }
+  
+  .fs-5 {
+    font-size: 1.25rem;
+    background-color: rgb(243, 202, 148);
+  }
+  
+  .fw-semibold {
+    font-weight: 600;
+  }
